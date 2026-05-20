@@ -1,7 +1,7 @@
 # Fall_Risk_Monitoring_and_Clinical_Test_Integretion
 Algorithms for Fall Risk Monitoring and Mobility Assessment using Azure Kinect DK
 
-This has 3 necessary functions in the system following by:F
+This has 3 necessary functions in the system following by:
 1. Fall Risk Monitoring (Percentage of Fall Risk)
 2. TUG Test
 3. Stepping Test
