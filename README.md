@@ -7,6 +7,7 @@ This has 3 necessary functions in the system following by:F
 3. Stepping Test
 
 **Description**
+
 The crucial component, which is Fall Risk Monitoring, has 3 significant parameters consisting of downward velocity, centerline angle, and aspect ratio to measure fall risk percentage with logistic regression that uses Sigmoid function for final result.
 
 For the mobility assessment, we choose 2 tests that are Time Up and Go and Fukuda Stepping tests.
